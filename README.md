@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=cluom&show_icons=true&include_all_commits=true&hide_title=true&card_width=450&theme=transparent)](https://github.com/cluom)
+
 -->
+### Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cluom&layout=compact&hide_title=true&card_width=450&theme=transparent)](https://github.com/cluom?tab=repositories)
